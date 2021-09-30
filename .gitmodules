@@ -1,0 +1,6 @@
+[submodule "lib/ArduinoJoystickLibrary"]
+	path = lib/ArduinoJoystickLibrary
+	url = https://github.com/MHeironimus/ArduinoJoystickLibrary.git
+[submodule "lib/HID_Buttons"]
+	path = lib/HID_Buttons
+	url = https://github.com/dmadison/HID_Buttons.git
